@@ -1,0 +1,44 @@
+html {
+	font-size: 18px;
+	font-family: 'Vollkorn', serif;
+	background-color: #EDEDED;
+}
+
+body {
+	width: 770px;
+  margin: 0 auto;
+  background-color: #E2E1DE;
+  padding: 20px 20px 50px 20px;
+  border: 0px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  color: brown;
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+  }
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 1px 1px 1px black;
+  }
+
+li {
+	font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+ul {
+	width: 740px;
+}
